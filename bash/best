@@ -1,6 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
+HEAD
 "Tekouin is so cool!"
-=======
-"Hi Tekouin"
->>>>>>> Update_branch
+
+"Tekouin is so cool!"
+Update_branch
